@@ -1,1 +1,1 @@
-web: gunicorn modern_site.wsgi --log-file -
+web: gunicorn gettingstarted.wsgi --log-file -
